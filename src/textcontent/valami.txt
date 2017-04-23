@@ -1,0 +1,6 @@
+bbb ccc aaa
+Szöveges állományok feldolgozása gyakran nem karakterenként, hanem nagyobb részenként, pl. soronként történik.
+Ehhez a Java ún. pufferelt fájlkezelési támogatást nyújt.
+Külön osztályok támogatják a byte- és string-szintű műveleteket.
+Számunkra most a stringek kezelése fontosabb, ezért nézzünk rá egy egyszerű példát!
+Írjunk ki egy sima szöveges állományba.
